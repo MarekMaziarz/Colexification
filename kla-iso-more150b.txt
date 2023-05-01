@@ -1,0 +1,49 @@
+lang	iso6393	Name	Glottocode	group	freq	Macroarea	Family	lat	lon
+est	ekk	Estonian	esto1258	OUT	151	Eurasia	Uralic	58.55	25.82
+lav	lav	Latvian	latv1249	IE	171	Eurasia	Indo-European	56.83	24.31
+kor	kor	Korean	kore1280	OUT	208	Eurasia	Koreanic	37.54	126.98
+gle	gle	Irish	iris1253	IE	396	Eurasia	Indo-European	53.22	-7.62
+mkd	mkd	Macedonian	mace1250	IE	411	Eurasia	Indo-European	41.60	21.79
+hbs	hbs	Serbian-Croatian-Bosnian	sout1528	IE	511	Eurasia	Indo-European	44.15	18.81
+lat	lat	Latin	lati1261	IE	516	Eurasia	Indo-European	41.90	12.45
+tur	tur	Turkish	nucl1301	OUT	518	Eurasia	Turkic	39.87	32.87
+hye	hye	Eastern Armenian	nucl1235	IE	575	Eurasia	Indo-European	40.00	45.00
+swa	swh	Swahili	swah1253	OUT	624	Africa	Atlantic-Congo	-8.26	37.62
+hun	hun	Hungarian	hung1274	OUT	653	Eurasia	Uralic	46.91	19.66
+glg	glg	Galician	gali1258	IE	724	Eurasia	Indo-European	42.24	-7.53
+ces	ces	Czech	czec1258	IE	918	Eurasia	Indo-European	49.87	15.10
+nno	nno	Norwegian Nynorsk	norw1262	IE	999	Eurasia	Indo-European	59.92	10.71
+heb	heb	Modern Hebrew	hebr1245	OUT	1023	Eurasia	Afro-Asiatic	31.11	35.02
+nob	nob	Norwegian Bokmal	norw1259	IE	1287	Eurasia	Indo-European	59.92	10.71
+dan	dan	Danish	dani1285	IE	1294	Eurasia	Indo-European	54.87	9.36
+gla	gla	Scottish Gaelic	scot1245	IE	1432	Eurasia	Indo-European	56.76	-5.24
+bul	bul	Bulgarian	bulg1262	IE	1653	Eurasia	Indo-European	43.36	25.05
+qcn	cmn	Mandarin Chinese	mand1415	OUT	1674	Eurasia	Sino-Tibetan	40.02	116.23
+swe	swe	Swedish	swed1254	IE	1812	Eurasia	Indo-European	59.80	17.39
+lit	lit	Lithuanian	lith1251	IE	1857	Eurasia	Indo-European	55.14	23.96
+deu	deu	German	stan1295	IE	2146	Eurasia	Indo-European	48.65	12.47
+als	als	Northern Tosk Albanian	tosk1239	IE	2424	Eurasia	Indo-European	41.00	20.00
+isl	isl	Icelandic	icel1247	IE	2489	Eurasia	Indo-European	63.48	-19.02
+rus	rus	Russian	russ1263	IE	3606	Eurasia	Indo-European	59.00	50.00
+cmn	cmn	Mandarin Chinese	mand1415	OUT	4186	Eurasia	Sino-Tibetan	40.02	116.23
+tha	tha	Thai	thai1261	OUT	4250	Eurasia	Tai-Kadai	14.19	100.67
+pol	pol	Polish	poli1260	IE	4371	Eurasia	Indo-European	51.84	18.63
+ell	ell	Modern Greek	mode1248	IE	4839	Eurasia	Indo-European	38.36	23.13
+arb	arb	Standard Arabic	stan1318	OUT	6910	Eurasia	Afro-Asiatic	27.96	43.85
+slk	slk	Slovak	slov1269	IE	7763	Eurasia	Indo-European	48.55	18.78
+hrv	hrv	Croatian Standard	croa1245	IE	9210	Eurasia	Indo-European	45.55	15.98
+fas	fas	Farsic-Caucasian Tat	fars1254	IE	9969	Eurasia	Indo-European	35.68	51.42
+por	por	Portuguese	port1283	IE	12137	Eurasia	Indo-European	39.91	-8.10
+nld	nld	Dutch	dutc1256	IE	12529	Eurasia	Indo-European	52.00	5.00
+slv	slv	Slovenian	slov1268	IE	13700	Eurasia	Indo-European	46.25	14.78
+cat	cat	Catalan	stan1289	IE	15979	Eurasia	Indo-European	41.45	1.57
+spa	spa	Spanish	stan1288	IE	19781	Eurasia	Indo-European	40.44	-1.12
+eus	eus	Basque	basq1248	OUT	20159	Eurasia	Basque	43.28	-1.32
+ita	ita	Italian	ital1282	IE	20326	Eurasia	Indo-European	43.05	12.65
+ron	ron	Romanian	roma1327	IE	24204	Eurasia	Indo-European	46.39	24.23
+jpn	jpn	Japanese	nucl1643	OUT	25831	Eurasia	Japonic	35.00	135.00
+fin	fin	Finnish	finn1318	OUT	32474	Eurasia	Uralic	64.76	25.56
+eng	eng	English	stan1293	IE	35649	Eurasia	Indo-European	53.00	-1.00
+fra	fra	French	stan1290	IE	46135	Eurasia	Indo-European	48.00	2.00
+ind	ind	Standard Indonesian	indo1316	OUT	57590	Papunesia	Austronesian	-7.33	109.72
+zsm	zsm	Standard Malay	stan1306	OUT	60445	Eurasia	Austronesian	3.09	101.70
